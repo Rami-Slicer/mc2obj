@@ -1,0 +1,3 @@
+[submodule "Minecraft-Model-Reader"]
+	path = Minecraft-Model-Reader
+	url = https://github.com/gentlegiantJGC/Minecraft-Model-Reader.git
